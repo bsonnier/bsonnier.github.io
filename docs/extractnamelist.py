@@ -1,4 +1,3 @@
-
 from bs4 import BeautifulSoup
 
 
@@ -17,5 +16,5 @@ def extractname(filename, filenamewr):
 
 
 if __name__ == '__main__':
-    extractname("./bsonnier.github.io/docs/favstars-mjyang-1529301206.html",
-                "./bsonnier.github.io/docs/favstars-mjyang")
+    extractname("./bsonnier.github.io/docs/favstars-mjyang-1531891897.html",
+                "./bsonnier.github.io/docs/favstars-mjyang-1531891897")
